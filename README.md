@@ -13,7 +13,7 @@ At the end I should be able to, set up GitHub repository, structure websites wit
 
 - Hardly comment code 
 
-- Rely on the internet too much when forgetting syntax. 
+- Rely on the internet and auto-complete too much when forgetting syntax. 
 
 - Copy and paste old code without understanding it's original purpose.
 
