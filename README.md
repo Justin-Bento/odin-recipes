@@ -11,4 +11,10 @@ At the end I should be able to, set up GitHub repository, structure websites wit
 
 ## What Did I Learn?
 
-I used the internet too much when forgetting syntax. 
+- Hardly comment code 
+
+- Rely on the internet too much when forgetting syntax. 
+
+- Copy and paste old code without understanding it's original purpose.
+
+
