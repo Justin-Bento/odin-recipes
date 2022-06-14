@@ -10,3 +10,5 @@ On top of this it helps me deepen my knowledge with technologies such as git, HT
 At the end I should be able to, set up GitHub repository, structure websites with Semantic HTML, and view projects on the web with github pages.
 
 ## What Did I Learn?
+
+I used the internet too much when forgetting syntax. 
