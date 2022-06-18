@@ -1,0 +1,20 @@
+* {
+  font-size: 15px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.main_recipes > * {
+  margin: 1rem 0rem;
+  padding: 1rem 0rem;
+}
+.recipe.title {
+  margin: 0rem;
+  padding: 0rem;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+.recipe.body {
+  margin: 0rem;
+  padding: 0rem;
+  font-size: 1rem;
+}
