@@ -3,6 +3,12 @@
   font-family: "Open Sans", sans-serif;
 }
 
+.main_recipes  > h1 {
+  font-size: 2rem;
+  padding-bottom:2rem;
+  border-bottom: 1px solid rgb(100, 116, 139);
+}
+
 .main_recipes,
 .recipe.content {
   width: 100%;
@@ -25,14 +31,22 @@ section.recipes, .recipe.content > * { line-height: 2.6 }
   padding: 0rem;
   font-weight: bold;
   font-size: 1.75rem;
+  color: rgb(30, 41, 59);
 }
 .recipe.body {
   margin: 0rem;
   padding: 0rem;
   font-size: 1rem;
   line-height: 1.5;
-  word-wrap: break-word
+  word-wrap: break-word;
+  color: rgb(30, 41, 59);
 }
-.recipe.link {
-  word-wrap: break-word
+.recipe.link,
+.recipe.content.link {
+  word-wrap: break-word;
+  color: rgb(30, 41, 59);
+  text-decoration: none;
+  font-style: italic;
+  margin: 0rem;
+  padding: 0rem;
 }
