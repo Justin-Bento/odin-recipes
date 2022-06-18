@@ -3,7 +3,8 @@
   font-family: "Open Sans", sans-serif;
 }
 
-.main_recipes {
+.main_recipes,
+.recipe.content {
   width: 100%;
   max-width: 700px;
   padding: 0em 1em;
@@ -11,7 +12,7 @@
 }
 
 .main_recipes > * { margin: 2rem 0rem }
-section.recipes > * { line-height: 2.6 }
+section.recipes, .recipe.content > * { line-height: 2.6 }
 
 .recipe.title {
   margin: 0rem;
@@ -19,10 +20,19 @@ section.recipes > * { line-height: 2.6 }
   font-weight: bold;
   font-size: 1.25rem;
 }
+.recipe.content.title {
+  margin: 0rem;
+  padding: 0rem;
+  font-weight: bold;
+  font-size: 1.75rem;
+}
 .recipe.body {
   margin: 0rem;
   padding: 0rem;
   font-size: 1rem;
   line-height: 1.5;
+  word-wrap: break-word
+}
+.recipe.link {
   word-wrap: break-word
 }
